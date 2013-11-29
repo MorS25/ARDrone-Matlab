@@ -1,4 +1,9 @@
 ARDrone-Matlab
+This matlab coding source is aiming to control the Parrot ARDrone with Microsoft XBOX Kinect.
+- Matlab-based ARDrone Communication and 
+- Kinect object-based RGB colour tracking (based on RGB image)
+- OpenNI Libarary provides depth image for real world coordination convertion
+
 ==============
 # ARDrone control function
 - Connect to AR.Drone via wi-fi
