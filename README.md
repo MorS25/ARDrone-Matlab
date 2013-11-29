@@ -1,9 +1,9 @@
 ARDrone-Matlab
 ==============
 # ARDrone control function
-Connect to AR.Drone via wi-fi
-Compiling the "drone_main.m" file in Matlab (Press F5)
-OFF YOU GO
+- Connect to AR.Drone via wi-fi
+- Compiling the "drone_main.m" file in Matlab (Press F5)
+- OFF YOU GO
 
 # Kinect Function
 Contains compiled codes of mex-files that utilitzing the Microsoft Kinect and OpenNI 1.* libary.
