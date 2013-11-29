@@ -2,6 +2,7 @@ ARDrone-Matlab
 ==============
 # ARDrone control function
 Connect to AR.Drone via wi-fi
+Compiling the "drone_main.m" file in Matlab (Press F5)
 OFF YOU GO
 
 # Kinect Function
@@ -15,4 +16,4 @@ OpenNI requirement of version 1.* install:
 - SensorKinect093 v5.1.2.1
 
 MATLAB release	 MATLAB 7.12 (R2011a)
-requirements	AR.Drone v1.7
+Requirements	AR.Drone v1.7
